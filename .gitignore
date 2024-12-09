@@ -1,0 +1,7 @@
+# vim
+[._]*.sw[a-p]
+[._]*.un~
+
+# python
+.venv
+__pycache__/
